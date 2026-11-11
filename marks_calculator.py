@@ -31,3 +31,4 @@ else:
     grade = "F"
 
 print("Grade:", grade)
+print("Thank you for using the calculator!")
