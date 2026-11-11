@@ -24,4 +24,4 @@ student marks, total, average, and grades.
 python marks_calculator.py
 
 ## Author
-Your Name
+Yashwant
